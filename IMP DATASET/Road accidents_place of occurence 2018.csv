@@ -1,0 +1,17 @@
+Sl. No.,Category,Cause,No. of Cases,Persons Injured - Male,Persons Injured - Female,Persons Injured - Transgender,Persons Injured - Total,Persons Died - Male,Persons Died - Female,Persons Died - Transgender,Persons Died - Total,Percentage Share (Cases)
+1,Rural Area,Near School/College/Educational institution,21193,17860,3538,0,21398,6065,1322,0,7387,4.8
+2,Rural Area,Near Residential Area,76294,61251,15527,7,76785,26065,4117,1,30183,17.1
+3,Rural Area,Near Religious Place,11309,10021,2529,0,12550,3238,751,0,3989,2.5
+4,Rural Area,Near Recreation Place/Cinema Hall,9673,8612,2188,0,10800,2787,484,0,3271,2.2
+5,Rural Area,Near Factory,10807,8834,2143,0,10977,3626,650,0,4276,2.4
+6,Rural Area,Others,129885,115784,23019,0,138803,39538,6128,0,45666,29.2
+7,Rural Area,Sub Total (Rural),259161,222362,48944,7,271313,81319,13452,1,94772,58.2
+8,Urban Area,Near School/College/Educational institution,17092,12552,2904,0,15456,4281,867,0,5148,3.8
+9,Urban Area,Near Residential Area,60192,44802,11432,0,56234,16578,2847,0,19425,13.5
+10,Urban Area,Near Religious Place,8717,6825,1699,0,8524,2503,497,0,3000,2
+11,Urban Area,Near Recreation Place/Cinema Hall,11721,8866,1884,0,10750,3149,548,0,3697,2.6
+12,Urban Area,Near Factory/Industrial area,13655,10577,2311,0,12888,3963,601,0,4564,3.1
+13,Urban Area,At Pedestrian Crossing,10302,6886,1791,0,8677,2413,472,0,2885,2.3
+14,Urban Area,Others,64674,49927,12749,0,62676,16625,2664,0,19289,14.5
+15,Urban Area,Sub Total (Urban),186353,140435,34770,0,175205,49512,8496,0,58008,41.8
+16,Grand Total,Grand Total,445514,362797,83714,7,446518,130831,21948,1,152780,100
